@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- A low-poly iso tile with a pine on it, in the Timberline palette. -->
+  <polygon points="32,22 60,36 32,50 4,36" fill="#6fae5c"/>
+  <polygon points="4,36 32,50 32,58 4,44" fill="#9a6f1c"/>
+  <polygon points="60,36 32,50 32,58 60,44" fill="#d39a5e"/>
+  <polygon points="32,4 44,30 32,36 20,30" fill="#95d283"/>
+  <polygon points="32,4 32,36 20,30" fill="#4f8a40"/>
+  <rect x="30" y="34" width="4" height="6" fill="#9a6f1c"/>
+</svg>
